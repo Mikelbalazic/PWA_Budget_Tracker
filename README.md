@@ -1,2 +1,4 @@
 # PWA_Budget_Tracker
 Budget Tracker Application
+
+In this application, we were asked to make additions to a pre-existing budget tracker application. The application allows the user to input income or expenses and list what they were for. A graph then auto updates when moneys are increased or decreased based of the user's input. The main goal of the application is to demonstrate the offline functionality. In the browser console, we are able to set the browser to being offline which would stop the connection between the application and the internet. Normally when this happens, a website would crash and the user would not be able to complete their submissions jof potentially important user input. Utilizing Mongodb, we are able to create a server in the browser for any user input to continue regardless of being offline. This PWA concept can be used for more smooth UI as well as safety measures for sites that require private or sensitive user input.
